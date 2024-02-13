@@ -1,5 +1,6 @@
 torch
-torch-data
+torchdata
 transformers
 datasets
 jupyter
+ipywidgets
